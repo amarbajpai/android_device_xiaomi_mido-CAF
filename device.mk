@@ -226,8 +226,8 @@ PRODUCT_COPY_FILES += \
 
 # IPA Manager
 PRODUCT_PACKAGES += \
-    ipacm \
-    IPACM_cfg.xml
+#    ipacm \
+ #   IPACM_cfg.xml
 
 # IRQ
 PRODUCT_COPY_FILES += \
